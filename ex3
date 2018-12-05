@@ -1,0 +1,29 @@
+{
+  "responseId": "a8c5639f-ee51-4cd5-9c2c-ef9992555d64",
+  "queryResult": {
+    "queryText": "Go right by 10 centimetres",
+    "parameters": {
+      "direction": "right",
+      "unit-length": {
+        "amount": 10,
+        "unit": "cm"
+      }
+    },
+    "allRequiredParamsPresent": true,
+    "fulfillmentMessages": [
+      {
+        "text": {
+          "text": [
+            ""
+          ]
+        }
+      }
+    ],
+    "intent": {
+      "name": "projects/drone-intructor/agent/intents/092ae113-8d67-437f-a75a-d280bd71a161",
+      "displayName": "[Move] Left"
+    },
+    "intentDetectionConfidence": 0.98,
+    "languageCode": "en"
+  }
+}
